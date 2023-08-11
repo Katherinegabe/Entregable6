@@ -1,0 +1,15 @@
+.login_container {
+    margin: 20px;
+}
+.login_input_email {
+    margin: 20px 50px
+}
+.login_input_password{
+    margin-left: 20px;
+}
+.login_btn {
+    margin: 20px 140px;
+    font-size: 15px;
+    background-color: #f85555;
+    color: whitesmoke;
+}

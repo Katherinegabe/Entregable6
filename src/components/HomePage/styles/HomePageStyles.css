@@ -1,0 +1,14 @@
+.home_container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+    position: relative;
+    margin: 1em;
+}
+    
+.home_input {
+    width: 500px;
+    height: 40px;
+    margin: 10px;
+    margin-left: 20%;
+}

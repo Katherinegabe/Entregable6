@@ -1,0 +1,15 @@
+.container_cart {
+    margin: 10px;
+    height: 300px;
+    width: 30%;
+    display: flex;
+    gap: 1rem;
+    justify-content: right;
+}
+.product_title {
+    font-size: 20px;
+}
+.product_bnt {
+    color: #f85555;
+}
+    

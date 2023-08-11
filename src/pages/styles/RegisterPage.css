@@ -1,0 +1,27 @@
+.register_container{
+    margin: 2em;
+}
+.register_input {
+    margin: 3px;
+}
+.input_firstname{
+    margin-left: 20px;
+}
+.input_lastname {
+    margin-left: 24px;
+}
+.input_email {
+    margin-left: 60px;
+}
+.input_password {
+    margin-left: 30px;
+}
+.input_phone {
+    margin-left: 52px;
+}
+.register_btn {
+    margin: 10px 130px;
+    font-size: 15px;
+    background-color: #f85555;
+    color: whitesmoke;
+}

@@ -1,0 +1,11 @@
+.filter_input-from {
+    margin: 5px;
+}
+.filter_input-to {
+    margin-left: 27px;
+}
+.filter_price_btn {
+    margin: 20px 90px;
+    background-color: #f85555;
+    color: rgb(240, 237, 237);
+}
